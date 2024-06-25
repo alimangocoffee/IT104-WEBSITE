@@ -131,12 +131,15 @@ header.shadow{
 .btn{
     padding: 10px 40px;
     border-radius: 0.3rem;
-    background-position: #bc9667;
+    background-position: var(--main-color);
     color: #bc9667;
     font-weight: 500;
 }
 .btn:hover{
     background: #bc9667;
+}
+.about .btn {
+    background: #bc9667
 }
 .about{
     display: grid;
