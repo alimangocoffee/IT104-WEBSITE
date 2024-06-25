@@ -132,7 +132,7 @@ header.shadow{
     padding: 10px 40px;
     border-radius: 0.3rem;
     background-position: var(--main-color);
-    color: #1b1b1b;
+    color: var(--bg-color);
     font-weight: 500;
 }
 .btn:hover{
