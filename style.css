@@ -142,6 +142,9 @@ header.shadow{
     background: var(--bg-color);
     color: var(--text-color);
 }
+.about .btn:hover{
+    background:  #8a6f4d;
+}
 .about{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(17rem,auto));
