@@ -132,14 +132,15 @@ header.shadow{
     padding: 10px 40px;
     border-radius: 0.3rem;
     background-position: var(--main-color);
-    color: #1b1b1b;
+    color: var(--text-color);
     font-weight: 500;
 }
 .btn:hover{
-    background: #bc9667;
+    background:  #8a6f4d;
 }
 .about .btn {
-    background: var(--text-color)
+    background: var(--bg-color);
+    color: var(--text-color);
 }
 .about{
     display: grid;
