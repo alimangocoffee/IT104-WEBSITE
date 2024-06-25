@@ -128,6 +128,12 @@ header.shadow{
     color: var(--bg-color);
     margin: 0.5rem 0 1.4rem;
 }
+.home-text .btn {
+    color: var(--bg-color);
+}
+.btn:hover{
+    background:  #8a6f4d;
+}
 .btn{
     padding: 10px 40px;
     border-radius: 0.3rem;
