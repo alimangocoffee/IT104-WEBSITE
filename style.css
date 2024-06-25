@@ -139,7 +139,7 @@ header.shadow{
     background: #bc9667;
 }
 .about .btn {
-    background: #bc9667
+    background: var(--text-color)
 }
 .about{
     display: grid;
