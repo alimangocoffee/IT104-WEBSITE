@@ -131,8 +131,8 @@ header.shadow{
 .btn{
     padding: 10px 40px;
     border-radius: 0.3rem;
-    background-position: #8a6f4d;
-    color: var(--bg-color);
+    background-position: var(--main-color);
+    color: #bc9667;
     font-weight: 500;
 }
 .btn:hover{
